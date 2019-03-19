@@ -9,7 +9,7 @@
              
 ```
 git clone https://github.com/r33zA/r33zAs-pihole-whitelist.git
-cd whitelist/scripts
+cd r33zAs-pihole-whitelist/scripts
 sudo chmod +x whitelist.sh
 sudo ./whitelist.sh
 ```
