@@ -2,7 +2,7 @@
 
 **NOTE!** The original script is created by Anudeep - https://github.com/anudeepND/whitelist
 
-**NOTE!** This list is useless to use for most people as this is purely learning ground for me and only specifically needed domains needed for my Pi-hole - https://pi-hole.net
+**NOTE!** This list is useless to use for most people as this is purely learning a ground for me; also only specifically needed domains usd for my Pi-hole - https://pi-hole.net
 
 
 * Installation and Usage
