@@ -2,18 +2,18 @@
 
 
 
-***NOTE!*** - The original script is created by Anudeep - https://github.com/anudeepND/whitelist
+**NOTE!** - The original script is created by Anudeep - https://github.com/anudeepND/whitelist
 
-***NOTE!***  - This has been highly modified and is useless for use by most people.
+**NOTE!**  - This has been highly modified and is useless for use by most people.
 
-***NOTE!*** - I'm doing this for two reasons; A) as learning a ground for myself and B) to quickly add specifically needed domains to my Pi-hole.
+**NOTE!** - I'm doing this for two reasons; A) as learning a ground for myself and B) to quickly add specifically needed domains to my Pi-hole.
 
 
 
 ***
 
-* *Usage*
-  ​           
+- Usage
+         
 ```
 git clone https://github.com/r33zA/r33zAs-pihole-whitelist.git
 cd r33zAs-pihole-whitelist/scripts
@@ -22,14 +22,16 @@ sudo chmod +x whitelist.sh
 sudo ./adlists.sh
 sudo ./whitelist.sh
 ```
+
 ***
 
    <p align="center">
 <img width="250" height="250" src="https://raw.githubusercontent.com/r33zA/r33zAs-pihole-whitelist/master/pihole.png"> 
 </p>  
 
-### [**Pi-hole® Network-wide Ad Blocking**](https://pi-hole.net/)
-
+<p align="center">
+  <b>[Pi-hole® Network-wide Ad Blocking](https://pi-hole.net/)</b>
+</p>
 
 
 ***
