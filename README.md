@@ -2,8 +2,9 @@
 
 **NOTE!** The original script is created by Anudeep - https://github.com/anudeepND/whitelist
 
-**NOTE!** This list is useless to use for most people as this is purely learning a ground for me; also only specifically needed domains used for my Pi-hole - https://pi-hole.net
+**NOTE!** This list is useless to use for most people as this is purely learning a ground for me; also only specifically needed domains used for my Pi-hole - https://pi-hole.net  
 
+***
 
 * Usage
              
@@ -20,9 +21,9 @@ sudo ./whitelist.sh
    
    <p align="center">
 <img width="250" height="250" src="https://raw.githubusercontent.com/r33zA/r33zAs-pihole-whitelist/master/pihole.png"> 
-</p>
-   
-   
+</p>  
+
+***
    
    
 ### Licence
