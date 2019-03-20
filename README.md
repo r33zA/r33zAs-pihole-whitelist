@@ -30,7 +30,7 @@ sudo ./whitelist.sh
 </p>  
 
 <p align="center">
-  <b>[Pi-hole® Network-wide Ad Blocking](https://pi-hole.net/)</b>
+         <b> <a href="https://pi-hole.net/" target="_blank"> Pi-hole® Network-wide Ad Blocking </a> </b>
 </p>
 
 
