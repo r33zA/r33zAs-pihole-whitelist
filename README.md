@@ -4,16 +4,29 @@
 
 **NOTE!** - The original script is created by Anudeep - https://github.com/anudeepND/whitelist
 
-**NOTE!**  - This has been highly modified and is useless for use by most people.
+**NOTE!**  - This has been highly modified and is useless for most setups.
 
-**NOTE!** - I'm doing this for two reasons; A) as learning a ground for myself and B) to quickly add specifically needed domains to my Pi-hole.
+
+
+I'm doing this for two reasons; 
+
+A) as learning a ground for myself,
+
+B) and to quickly add specifically needed domains to my Pi-hole.
+
+
+
+**!** This now also removes the default adlists.list to use only <https://dbl.oisd.nl> for my preferred setup.
 
 
 
 ***
 
+
+
 - Usage
-         
+
+
 ```
 git clone https://github.com/r33zA/r33zAs-pihole-whitelist.git
 cd r33zAs-pihole-whitelist/scripts
@@ -22,6 +35,8 @@ sudo chmod +x whitelist.sh
 sudo ./adlists.sh
 sudo ./whitelist.sh
 ```
+
+
 
 ***
 
@@ -32,7 +47,6 @@ sudo ./whitelist.sh
 <p align="center">
          <b> <a href="https://pi-hole.net/" target="_blank"> Pi-hole® Network-wide Ad Blocking </a> </b>
 </p>
-
 
 ***
 
