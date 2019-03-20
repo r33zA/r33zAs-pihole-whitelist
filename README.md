@@ -16,7 +16,15 @@ sudo ./adlists.sh
 sudo ./whitelist.sh
 ```
 ***
-        
+   
+   
+   <p align="center">
+<img width="250" height="250" src="https://github.com/r33zA/pihole/raw/master/images/pihole_one.png"> 
+</p>
+   
+   
+   
+   
 ### Licence
 ```
 MIT License
