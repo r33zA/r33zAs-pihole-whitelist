@@ -1,6 +1,5 @@
 tiles.services.mozilla.com
-incoming.telemetry.mozilla.org
-search.services.mozilla.com
+onyx_tiles.stage.mozaws.net
 epicgames.com
 analytics.plex.tv
 reeza.xyz
