@@ -1,5 +1,5 @@
 #!/bin/bash
-# This script will download and add domains from the rep to whitelist.txt file.
+# This script will download and add domains from the rep and replace installed adlists with my adlists.
 
 
 cd
