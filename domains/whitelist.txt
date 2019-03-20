@@ -3,4 +3,4 @@ incoming.telemetry.mozilla.org
 search.services.mozilla.com
 epicgames.com
 analytics.plex.tv
-test.com
+reeza.xyz
