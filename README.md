@@ -2,15 +2,17 @@
 
 **NOTE!** The original script is created by Anudeep - https://github.com/anudeepND/whitelist
 
-**NOTE!** This list is useless to use for most people as this is purely learning a ground for me; also only specifically needed domains usd for my Pi-hole - https://pi-hole.net
+**NOTE!** This list is useless to use for most people as this is purely learning a ground for me; also only specifically needed domains used for my Pi-hole - https://pi-hole.net
 
 
-* Installation and Usage
+* Usage
              
 ```
 git clone https://github.com/r33zA/r33zAs-pihole-whitelist.git
 cd r33zAs-pihole-whitelist/scripts
+sudo chmod +x adlists.sh
 sudo chmod +x whitelist.sh
+sudo ./adlists.sh
 sudo ./whitelist.sh
 ```
 ***
