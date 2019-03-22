@@ -4,3 +4,6 @@ epicgames.com
 analytics.plex.tv
 reeza.xyz
 mas-ext.amazon.com
+api.roblox.com
+clientsettings.api.roblox.com
+ephemeralcounters.api.roblox.com
