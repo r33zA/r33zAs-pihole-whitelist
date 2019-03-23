@@ -14,3 +14,4 @@ cf.iadsdk.apple.com
 iadsdk.apple.com
 widgets.itunes.apple.com
 banners.itunes.apple.com
+news.iadsdk.apple.com
