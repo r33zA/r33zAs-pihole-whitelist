@@ -4,7 +4,7 @@
 
 **NOTE!** - The original script is created by Anudeep - https://github.com/anudeepND/whitelist
 
-**NOTE!**  - This has been highly modified and is useless for most setups.
+**NOTE!**  - This has been highly modified and is useless for most setups. 
 
 
 
@@ -16,7 +16,8 @@ B) and to quickly add specifically needed domains to my Pi-hole.
 
 
 
-**!** This now also removes the default adlists.list to use only <https://dbl.oisd.nl> for my preferred setup.
+**!** This now also removes the default adlists.list to use only <https://dbl.oisd.nl> for my preferred setup.  
+**!** This now adds mmotti's regex file - https://github.com/mmotti/pihole-regex
 
 
 
