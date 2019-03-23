@@ -7,3 +7,10 @@ mas-ext.amazon.com
 api.roblox.com
 clientsettings.api.roblox.com
 ephemeralcounters.api.roblox.com
+securemetrics.apple.com
+iphonesubmissions.apple.com
+radarsubmissions.apple.com
+cf.iadsdk.apple.com
+iadsdk.apple.com
+widgets.itunes.apple.com
+banners.itunes.apple.com
