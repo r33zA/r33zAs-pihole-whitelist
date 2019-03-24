@@ -34,3 +34,4 @@ stats.gc.apple.com
 tr.iadsdk.apple.com
 s.mzstatic.com
 gateway.icloud.com
+mobile-collector.newrelic.com
