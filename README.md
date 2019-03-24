@@ -17,7 +17,7 @@ B) and to quickly add specifically needed domains to my Pi-hole.
 
 
 **!** This now also removes the default adlists.list to use only <https://dbl.oisd.nl> for my preferred setup.  
-**!** This now adds mmotti's regex file - https://github.com/mmotti/pihole-regex
+~~**!** This now adds mmotti's regex file - https://github.com/mmotti/pihole-regex~~
 
 
 
