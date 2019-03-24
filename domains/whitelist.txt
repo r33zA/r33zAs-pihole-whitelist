@@ -16,6 +16,7 @@ c4.rbxcdn.com
 c5.rbxcdn.com
 c6.rbxcdn.com
 c7.rbxcdn.com
+ecsv2.roblox.com
 api.roblox.com
 clientsettings.api.roblox.com
 ephemeralcounters.api.roblox.com
