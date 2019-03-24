@@ -17,3 +17,4 @@ banners.itunes.apple.com
 news.iadsdk.apple.com
 stats.gc.apple.com
 tr.iadsdk.apple.com
+s.mzstatic.com
