@@ -23,6 +23,7 @@ api.roblox.com
 clientsettings.api.roblox.com
 ephemeralcounters.api.roblox.com
 securemetrics.apple.com
+metrics.icloud.com
 iphonesubmissions.apple.com
 radarsubmissions.apple.com
 cf.iadsdk.apple.com
@@ -33,5 +34,6 @@ news.iadsdk.apple.com
 stats.gc.apple.com
 tr.iadsdk.apple.com
 s.mzstatic.com
+dzc-metrics.mzstatic.com
 gateway.icloud.com
 mobile-collector.newrelic.com
